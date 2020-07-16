@@ -19,7 +19,7 @@
   "license": "SEE LICENSE IN https://pspdfkit.com/legal/License.pdf",
   "readme": "https://pspdfkit.com/guides/web",
   "dependencies": {
-    "pspdfkit": "2020.3.0",
+    "pspdfkit": "2020.4.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "2.1.8"
@@ -36,5 +36,11 @@
   "devDependencies": {
     "cross-env": "^5.2.0",
     "ncp": "^2.0.0"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
